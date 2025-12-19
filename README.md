@@ -6,9 +6,7 @@ Say Hello To : **Bro Libs**
 
 **Bro Libs is REQUIRED FOR MY PROJECTS TO RUN**
 
-**For Example :**
-
-*Cross Editor* (https://github.com/itsbro-dev/cross-editor
+Please download **Bro-Libs** If you want my projects to run!
 
 -------------------------------------------------------
 Copyright 2025 itsbro dev
